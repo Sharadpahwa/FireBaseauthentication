@@ -48,7 +48,7 @@
         android:textSize="24sp" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/etPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="5dp"
@@ -63,7 +63,7 @@
         android:textSize="24sp" />
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/etConfirm"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="5dp"
